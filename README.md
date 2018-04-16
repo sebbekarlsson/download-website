@@ -4,7 +4,7 @@
 ## Install
 > Requirements:
 
-    * wget
+* wget
 
 > To install:
 
